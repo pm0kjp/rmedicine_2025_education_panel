@@ -1,0 +1,162 @@
+/*-- scss:defaults --*/
+// Colors
+$primary: #003F30;
+$body-color: #003F30;
+$body-bg: #fefefe;
+$link-color: $primary;
+// Fonts
+// $font-family-sans-serif: "Open Sans", sans-serif;
+// $font-family-monospace: "Source Code Pro", monospace;
+
+
+/*-- scss:mixins --*/
+
+
+/*-- scss:rules --*/
+
+
+.slide-number,
+.reveal.has-logo .slide-number {
+  bottom: 10px !important;
+  right: 100px !important;
+  top: unset !important;
+  color: $body-color !important;
+}
+
+#title-slide, #title-slide h1.title {
+  color: white
+}
+
+.reveal a {
+  text-decoration: underline;
+}
+
+.red {
+  color: #da2c43
+}
+
+.max-lines {
+  max-height: 400px; /* Adjust height as needed */
+  overflow: scroll; /* Enable scrolling if content exceeds height */
+}
+
+.scrolling {
+  overflow: scroll;
+  height: 400px;
+}
+
+.reveal ol {
+    margin: 0 0 0 1.5em;
+}
+
+.reveal code {
+  background-color: #F1F3F5;
+  color: blue;
+  padding: 0.1em 0.2em;
+  border-radius: 3px;     
+}
+
+.reveal .slide-logo {
+  height: 1.75em !important;
+  width: 1.75em !important;
+  max-width: unset !important;
+  max-height: unset !important;
+}
+
+.bordered {
+  border: 1px solid #aaa;
+}
+
+.centered {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.center-text {
+  text-align: center;
+}
+
+pre code{
+  background-color: #f1f1f1 !important;
+}
+
+.code-block {
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  background-color: #f1f1f1;
+  border: 1px solid #aaa;
+  padding: 1em;
+}
+
+.v-center-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 85%;
+}
+
+
+.one-third {
+  max-width: 33% !important;
+  height: auto !important;
+}
+.two-thirds {
+  max-width: 66% !important;
+  height: auto !important;
+
+}
+
+.half {
+  max-width: 50% !important;
+  height: auto !important;
+
+}
+
+.small-text {
+  font-size: 0.7em;
+}
+
+.smaller-text {
+  font-size: 0.55em;
+}
+
+.tiny-text {
+  font-size: 0.4em;
+}
+
+.reveal .slide-logo {
+  max-height: 4rem !important;
+}
+
+.inline-image {
+  margin:0px auto !important;
+}
+
+.section-break {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  height:85% !important;
+
+}
+.section-break h2{
+  background-color: rgba(255, 255, 255, 0.8);
+  padding:1em;
+  
+}
+
+.warning {
+  color:red !important;
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  background-color: #f1f1f1;
+}
+
+.reveal a {
+  color: navy !important;
+  text-decoration: underline;
+}
+
+.reveal blockquote {
+  color: darkgreen;
+}
+
+

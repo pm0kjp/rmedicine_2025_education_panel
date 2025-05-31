@@ -1,0 +1,167 @@
+---
+title: "Supporting R Learners on the Job During Interesting Times"
+subtitle: "A Panel of R Educators"
+#author:
+#  - name: ""
+#    affiliation:
+date: June 10, 2025
+date-format: "MMMM D, YYYY"
+format:
+  revealjs:
+    theme: 
+      - default
+      - slides.scss
+    title-slide-attributes:
+      data-background-image: "img/rmed_background.png"
+      data-background-size: cover
+      data-background-opacity: "50"
+    fontsize: 2em
+    html-math-method: mathjax
+    slide-number: c/t
+    show-slide-number: all
+    highlight-style: rstudio_default-light.theme
+    logo: "img/rmed.png"
+    footer: "[Slides are here](https://){target='_blank'}"  # complete the URL
+    include-after-body: "img/clean_title_page.html"
+include-in-header:
+  text: |
+    <link rel="shortcut icon" href="img/rmed.ico"/>
+embed-resources: true
+knitr:
+  opts_chunk:      ########## set global options ############
+    collapse: true # keep code from blocks together (if shown)
+    echo: false    # don't show code
+    message: true  # show messages
+    warning: true  # show warnings
+    error: true    # show error messages
+    comment: ""    # don't show ## with printed output
+    R.options:   
+      digits: 3    # round to three digits
+editor_options:
+  chunk_output_type: console
+editor: source
+highlight-style: rstudio_default-light.theme
+---
+
+
+## Panel Today
+ 
+Panel convener: Joy Payton
+
+Additional Panelists:
+
+* Ray Balise
+* Silvia Canelón
+* Meghan Harris 
+* Ted Laderas
+
+
+We'll have a few questions to get started but we want to engage with you, so please use chat liberally!
+
+::: notes
+
+Hi everyone, my name is Joy Payton, I use she/her pronouns, and I am the convener of this panel.  I'm a data science educator in biomedicine and I brought together other educators who work in different areas of the same field, to talk about a topic I think a lot of us care about, which is how to support people who are trying to learn R at work, while they're busy doing lots of other things.  And we're trying to do this now in what I've euphemistically called "Interesting Times".
+
+I'm going to ask the panelists to introduce themselves and what their primary educational audience is, and I'll do that in alphabetical order by last name, and then I'll start asking a couple of questions.  Then I'd love to open it up to you, our participants, to engage with us, and make this a dialog.
+
+Let's get started with our first panelist!
+
+:::
+
+## Panelist Ray Balise
+
+::: {.columns .v-center-container}
+::: {.column .small-text width="60%"}
+
+Raymond R. Balise PhD
+Associate Professor of Biostatistics and Bioinformatics
+
+* Teach classes for the Division of Biostatistics and Bioinformatics at the University of Miami
+* Students include public health, biostatistics, nursing, psychology 
+* Specializes in asynchronous instruction using R packages like `learnr` and `gradethis` as well as synchronous instruction using tools like zoom and Posit.Cloud.
+
+:::
+::: {.column .small-text width="40%"}
+
+![](img/balise.jpg){fig-alt="A headshot of a smiling person with light skin, short grey spiky hair who is wearing a dark colored suit and tie."}
+:::
+:::
+
+## Panelist Silvia Canelón
+
+
+## Panelist Meghan Harris
+
+
+## Panelist Ted Laderas
+
+
+## Panelist Joy Payton
+
+::: {.columns .v-center-container}
+::: {.column .small-text width="60%"}
+
+Joy Payton, MS
+(For 2 more weeks) Manager of Data Education, Arcus Initiative, Children's Hospital of Philadelphia 
+
+* Teach workshops / short courses in data science (R, Python, SQL, ML, AI, NLP, etc.) for biomedical researchers and MD Fellows at CHOP and beyond 
+* Assists in Global Health Informatics efforts (Botswana, Dominican Republic, Panamá)
+* Occasional adjunct professor / teach for O'Reilly 
+
+:::
+::: {.column .small-text width="40%"}
+
+![](img/payton.jpg){fig-alt="A headshot of a smiling person with light skin and dark brown hair pulled back, who is wearing a green shirt and green dangling earrings."}
+:::
+:::
+
+::: notes
+OK, and this is my slide, I'm Joy, and I'm in transition mode, which I'll talk about later on in the panel, but while at the Children's Hospital of Philadelphia, which we call CHOP, some of what I've done has been to teach lots of different kind of data science topics within CHOP and beyond CHOP, as part of an NIH-funded data science training program where we reached learners in 16 countries.  I also work in global health informatics and I occasionally pick up a side gig doing adjunct work or lecturing for O'Reilly.
+
+:::
+
+## Question 1
+
+> Vibe coding and using LLMs to write code is enjoying a lot of press these days.  Is it still necessary to teach people to write R code, and if so, how much?
+
+::: notes
+
+So, let's start with this one.  Panelists, I'll let you come off mute as you see fit to answer in the order you wish.  Vibe coding and using LLMs to write code is enjoying a lot of press these days.  Is it still necesary to teach people to write R code, and if so, how much?
+
+:::
+
+
+## Question 2
+
+> The title of this panel mentions "interesting times".  What is making your work as an educator particularly interesting these days, whether that's good or bad?
+
+::: notes
+
+Let's move on to another question.  The title of this panel mentions "interesting times".  What is making your work as an educator particularly interesting these days, whether that's good or bad?  Panelists, what do you think?
+
+:::
+
+## Question 3
+
+> What are some of the tools and methods you find most effective to get people to use their skills and retain their use?
+
+::: notes
+
+Here's a question I think a lot of people will find useful when it comes to applying R to real life work.  What are some of the tools and methods you find most effective to get people to use their skills and retain their use?  
+
+:::
+
+## Your Questions!
+
+
+## Some of our Favorite Resources
+
+* https://posit.cloud
+* https://rstudio.github.io/learnr/
+* https://rstudio.github.io/gradethis/
+* https://juliasilge.com/blog/.
+
+
+
+
+

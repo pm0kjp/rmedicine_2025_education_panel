@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "slides/r_education_panel.html#panel-today",
+    "href": "slides/r_education_panel.html#panel-today",
+    "title": "Supporting R Learners on the Job During Interesting Times",
+    "section": "Panel Today",
+    "text": "Panel Today\nPanel convener: Joy Payton\nAdditional Panelists:\n\nRay Balise\nSilvia Canelón\nMeghan Harris\nTed Laderas\n\nWe’ll have a few questions to get started but we want to engage with you, so please use chat liberally!\n\nHi everyone, my name is Joy Payton, I use she/her pronouns, and I am the convener of this panel. I’m a data science educator in biomedicine and I brought together other educators who work in different areas of the same field, to talk about a topic I think a lot of us care about, which is how to support people who are trying to learn R at work, while they’re busy doing lots of other things. And we’re trying to do this now in what I’ve euphemistically called “Interesting Times”.\nI’m going to ask the panelists to introduce themselves and what their primary educational audience is, and I’ll do that in alphabetical order by last name, and then I’ll start asking a couple of questions. Then I’d love to open it up to you, our participants, to engage with us, and make this a dialog.\nLet’s get started with our first panelist!"
+  },
+  {
+    "objectID": "slides/r_education_panel.html#panelist-ray-balise",
+    "href": "slides/r_education_panel.html#panelist-ray-balise",
+    "title": "Supporting R Learners on the Job During Interesting Times",
+    "section": "Panelist Ray Balise",
+    "text": "Panelist Ray Balise\n\n\nRaymond R. Balise PhD Associate Professor of Biostatistics and Bioinformatics\n\nTeach classes for the Division of Biostatistics and Bioinformatics at the University of Miami\nStudents include public health, biostatistics, nursing, psychology\nSpecializes in asynchronous instruction using R packages like learnr and gradethis as well as synchronous instruction using tools like zoom and Posit.Cloud."
+  },
+  {
+    "objectID": "slides/r_education_panel.html#panelist-silvia-canelón",
+    "href": "slides/r_education_panel.html#panelist-silvia-canelón",
+    "title": "Supporting R Learners on the Job During Interesting Times",
+    "section": "Panelist Silvia Canelón",
+    "text": "Panelist Silvia Canelón"
+  },
+  {
+    "objectID": "slides/r_education_panel.html#panelist-meghan-harris",
+    "href": "slides/r_education_panel.html#panelist-meghan-harris",
+    "title": "Supporting R Learners on the Job During Interesting Times",
+    "section": "Panelist Meghan Harris",
+    "text": "Panelist Meghan Harris"
+  },
+  {
+    "objectID": "slides/r_education_panel.html#panelist-ted-laderas",
+    "href": "slides/r_education_panel.html#panelist-ted-laderas",
+    "title": "Supporting R Learners on the Job During Interesting Times",
+    "section": "Panelist Ted Laderas",
+    "text": "Panelist Ted Laderas"
+  },
+  {
+    "objectID": "slides/r_education_panel.html#panelist-joy-payton",
+    "href": "slides/r_education_panel.html#panelist-joy-payton",
+    "title": "Supporting R Learners on the Job During Interesting Times",
+    "section": "Panelist Joy Payton",
+    "text": "Panelist Joy Payton\n\n\nJoy Payton, MS (For 2 more weeks) Manager of Data Education, Arcus Initiative, Children’s Hospital of Philadelphia\n\nTeach workshops / short courses in data science (R, Python, SQL, ML, AI, NLP, etc.) for biomedical researchers and MD Fellows at CHOP and beyond\nAssists in Global Health Informatics efforts (Botswana, Dominican Republic, Panamá)\nOccasional adjunct professor / teach for O’Reilly\n\n\n\n\n\n\nOK, and this is my slide, I’m Joy, and I’m in transition mode, which I’ll talk about later on in the panel, but while at the Children’s Hospital of Philadelphia, which we call CHOP, some of what I’ve done has been to teach lots of different kind of data science topics within CHOP and beyond CHOP, as part of an NIH-funded data science training program where we reached learners in 16 countries. I also work in global health informatics and I occasionally pick up a side gig doing adjunct work or lecturing for O’Reilly."
+  },
+  {
+    "objectID": "slides/r_education_panel.html#question-1",
+    "href": "slides/r_education_panel.html#question-1",
+    "title": "Supporting R Learners on the Job During Interesting Times",
+    "section": "Question 1",
+    "text": "Question 1\n\nVibe coding and using LLMs to write code is enjoying a lot of press these days. Is it still necessary to teach people to write R code, and if so, how much?\n\n\nSo, let’s start with this one. Panelists, I’ll let you come off mute as you see fit to answer in the order you wish. Vibe coding and using LLMs to write code is enjoying a lot of press these days. Is it still necesary to teach people to write R code, and if so, how much?"
+  },
+  {
+    "objectID": "slides/r_education_panel.html#question-2",
+    "href": "slides/r_education_panel.html#question-2",
+    "title": "Supporting R Learners on the Job During Interesting Times",
+    "section": "Question 2",
+    "text": "Question 2\n\nThe title of this panel mentions “interesting times”. What is making your work as an educator particularly interesting these days, whether that’s good or bad?\n\n\nLet’s move on to another question. The title of this panel mentions “interesting times”. What is making your work as an educator particularly interesting these days, whether that’s good or bad? Panelists, what do you think?"
+  },
+  {
+    "objectID": "slides/r_education_panel.html#question-3",
+    "href": "slides/r_education_panel.html#question-3",
+    "title": "Supporting R Learners on the Job During Interesting Times",
+    "section": "Question 3",
+    "text": "Question 3\n\nWhat are some of the tools and methods you find most effective to get people to use their skills and retain their use?\n\n\nHere’s a question I think a lot of people will find useful when it comes to applying R to real life work. What are some of the tools and methods you find most effective to get people to use their skills and retain their use?"
+  },
+  {
+    "objectID": "slides/r_education_panel.html#your-questions",
+    "href": "slides/r_education_panel.html#your-questions",
+    "title": "Supporting R Learners on the Job During Interesting Times",
+    "section": "Your Questions!",
+    "text": "Your Questions!"
+  },
+  {
+    "objectID": "slides/r_education_panel.html#some-of-our-favorite-resources",
+    "href": "slides/r_education_panel.html#some-of-our-favorite-resources",
+    "title": "Supporting R Learners on the Job During Interesting Times",
+    "section": "Some of our Favorite Resources",
+    "text": "Some of our Favorite Resources\n\nhttps://posit.cloud\nhttps://rstudio.github.io/learnr/\nhttps://rstudio.github.io/gradethis/\nhttps://juliasilge.com/blog/.\n\n\n\n\nSlides are here"
+  }
+]
