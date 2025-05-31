@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "slides/r_education_panel.html#welcome",
+    "href": "slides/r_education_panel.html#welcome",
+    "title": "Supporting R Learners on the Job During Interesting Times",
+    "section": "Welcome",
+    "text": "Welcome\nThese slides available at: https://pm0kjp.github.io/rmedicine_2025_education_panel/slides/r_education_panel.html\n\nUse keyboard arrow keys to\n\nadvance ( → ) and\ngo back ( ← )\n\nType “s” to see speaker notes\nType “?” to see other keyboard shortcuts\n\n\nHi everyone, this is just so if you want to use these slides later, maybe in order to use the slides where we list our favorite resources, you have access to the keyboard shortcuts to use them! I’ll add that link to the chat so you can follow along and have that link available to you later."
+  },
+  {
     "objectID": "slides/r_education_panel.html#panel-today",
     "href": "slides/r_education_panel.html#panel-today",
     "title": "Supporting R Learners on the Job During Interesting Times",
@@ -11,7 +18,7 @@
     "href": "slides/r_education_panel.html#panelist-ray-balise",
     "title": "Supporting R Learners on the Job During Interesting Times",
     "section": "Panelist Ray Balise",
-    "text": "Panelist Ray Balise\n\n\nRaymond R. Balise PhD Associate Professor of Biostatistics and Bioinformatics\n\nTeach classes for the Division of Biostatistics and Bioinformatics at the University of Miami\nStudents include public health, biostatistics, nursing, psychology\nSpecializes in asynchronous instruction using R packages like learnr and gradethis as well as synchronous instruction using tools like zoom and Posit.Cloud."
+    "text": "Panelist Ray Balise\n\n\nRaymond R. Balise PhD\nAssociate Professor of Biostatistics and Bioinformatics\n\nTeach classes for the Division of Biostatistics and Bioinformatics at the University of Miami\nStudents include public health, biostatistics, nursing, psychology\nSpecializes in asynchronous instruction using R packages like learnr and gradethis as well as synchronous instruction using tools like zoom and Posit.Cloud."
   },
   {
     "objectID": "slides/r_education_panel.html#panelist-silvia-canelón",
@@ -39,7 +46,7 @@
     "href": "slides/r_education_panel.html#panelist-joy-payton",
     "title": "Supporting R Learners on the Job During Interesting Times",
     "section": "Panelist Joy Payton",
-    "text": "Panelist Joy Payton\n\n\nJoy Payton, MS (For 2 more weeks) Manager of Data Education, Arcus Initiative, Children’s Hospital of Philadelphia\n\nTeach workshops / short courses in data science (R, Python, SQL, ML, AI, NLP, etc.) for biomedical researchers and MD Fellows at CHOP and beyond\nAssists in Global Health Informatics efforts (Botswana, Dominican Republic, Panamá)\nOccasional adjunct professor / teach for O’Reilly\n\n\n\n\n\n\nOK, and this is my slide, I’m Joy, and I’m in transition mode, which I’ll talk about later on in the panel, but while at the Children’s Hospital of Philadelphia, which we call CHOP, some of what I’ve done has been to teach lots of different kind of data science topics within CHOP and beyond CHOP, as part of an NIH-funded data science training program where we reached learners in 16 countries. I also work in global health informatics and I occasionally pick up a side gig doing adjunct work or lecturing for O’Reilly."
+    "text": "Panelist Joy Payton\n\n\nJoy Payton, MS\n(For 2 more weeks) Manager of Data Education, Arcus Initiative, Children’s Hospital of Philadelphia\n\nTeach workshops / short courses in data science (R, Python, SQL, ML, AI, NLP, etc.) for biomedical researchers and MD Fellows at CHOP and beyond\nAssists in Global Health Informatics efforts (Botswana, Dominican Republic, Panamá)\nOccasional adjunct professor / teach for O’Reilly\n\n\n\n\n\n\nOK, and this is my slide, I’m Joy, and I’m in transition mode, which I’ll talk about later on in the panel, but while at the Children’s Hospital of Philadelphia, which we call CHOP, some of what I’ve done has been to teach lots of different kind of data science topics within CHOP and beyond CHOP, as part of an NIH-funded data science training program where we reached learners in 16 countries. I also work in global health informatics and I occasionally pick up a side gig doing adjunct work or lecturing for O’Reilly."
   },
   {
     "objectID": "slides/r_education_panel.html#question-1",

@@ -21,7 +21,7 @@ format:
     show-slide-number: all
     highlight-style: rstudio_default-light.theme
     logo: "img/rmed.png"
-    footer: "[Slides are here](https://){target='_blank'}"  # complete the URL
+    footer: "[Slides are here](https://pm0kjp.github.io/rmedicine_2025_education_panel/slides/r_education_panel.html){target='_blank'}"  # complete the URL
     include-after-body: "img/clean_title_page.html"
 include-in-header:
   text: |
@@ -43,6 +43,19 @@ editor: source
 highlight-style: rstudio_default-light.theme
 ---
 
+## Welcome {.smaller}
+
+These slides available at: <https://pm0kjp.github.io/rmedicine_2025_education_panel/slides/r_education_panel.html>
+
+-   Use keyboard arrow keys to
+    -   advance ( → ) and
+    -   go back ( ← )
+-   Type "s" to see speaker notes
+-   Type "?" to see other keyboard shortcuts
+
+::: notes
+Hi everyone,  this is just so if you want to use these slides later, maybe in order to use the slides where we list our favorite resources, you have access to the keyboard shortcuts to use them!  I'll add that link to the chat so you can follow along and have that link available to you later.
+:::
 
 ## Panel Today
  
@@ -74,6 +87,7 @@ Let's get started with our first panelist!
 ::: {.column .small-text width="60%"}
 
 Raymond R. Balise PhD
+
 Associate Professor of Biostatistics and Bioinformatics
 
 * Teach classes for the Division of Biostatistics and Bioinformatics at the University of Miami
@@ -102,6 +116,7 @@ Associate Professor of Biostatistics and Bioinformatics
 ::: {.column .small-text width="60%"}
 
 Joy Payton, MS
+
 (For 2 more weeks) Manager of Data Education, Arcus Initiative, Children's Hospital of Philadelphia 
 
 * Teach workshops / short courses in data science (R, Python, SQL, ML, AI, NLP, etc.) for biomedical researchers and MD Fellows at CHOP and beyond 
