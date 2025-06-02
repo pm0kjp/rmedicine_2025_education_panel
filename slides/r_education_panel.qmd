@@ -86,13 +86,16 @@ Let's get started with our first panelist!
 ::: {.columns .v-center-container}
 ::: {.column .small-text width="60%"}
 
-Raymond R. Balise PhD
+Raymond R. Balise, PhD
 
 Associate Professor of Biostatistics and Bioinformatics
 
-* Teach classes for the Division of Biostatistics and Bioinformatics at the University of Miami
-* Students include public health, biostatistics, nursing, psychology 
-* Specializes in asynchronous instruction using R packages like `learnr` and `gradethis` as well as synchronous instruction using tools like zoom and Posit.Cloud.
+* Teaches classes for the Division of Biostatistics and Bioinformatics at the University of Miami
+  + Survey of [Statistical Computing]{.red}
+  + Software Tools for [Reproducible Research]{.red}
+  + Data Science and [Machine Learning]{.red} for Health Research
+* Mostly graduate students studying public health, biostatistics, nursing, psychology 
+* Specializes in [asynchronous]{.red} instruction using R packages like `learnr` and `gradethis` as well as [synchronous online]{.red} instruction using tools like Zoom and Posit.Cloud.
 
 :::
 ::: {.column .small-text width="40%"}
@@ -141,7 +144,7 @@ OK, and this is my slide, I'm Joy, and I'm in transition mode, which I'll talk a
 
 ::: notes
 
-So, let's start with this one.  Panelists, I'll let you come off mute as you see fit to answer in the order you wish.  Vibe coding and using LLMs to write code is enjoying a lot of press these days.  Is it still necesary to teach people to write R code, and if so, how much?
+So, let's start with this one.  Panelists, I'll let you come off mute as you see fit to answer in the order you wish.  Vibe coding and using LLMs to write code is enjoying a lot of press these days.  Is it still necessary to teach people to write R code, and if so, how much?
 
 :::
 
@@ -175,8 +178,4 @@ Here's a question I think a lot of people will find useful when it comes to appl
 * https://rstudio.github.io/learnr/
 * https://rstudio.github.io/gradethis/
 * https://juliasilge.com/blog/.
-
-
-
-
 
