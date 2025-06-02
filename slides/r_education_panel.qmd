@@ -112,6 +112,23 @@ Associate Professor of Biostatistics and Bioinformatics
 
 ## Panelist Ted Laderas
 
+::: {.columns .v-center-container}
+::: {.column .small-text width="60%"}
+Ted Laderas, PhD
+
+* I've worked with many different kinds of adult learners: [clinicians](https://laderast.github.io/rmed_2020_talk/#1), bioinformaticians, biologists, finance, social scientists, engineers, and educators
+* Currently [Director of Training and Community](https://hutchdatascience.org) for Office of the Chief Data Officer, Fred Hutch Cancer Center
+* Recovering academic; focus is on workforce training and [psychological safety](https://laderast.github.io/talks/2021-03-22-psychological-safety/)
+
+:::
+::: {.column .small-text width="40%"}
+![](img/LaderasTed-small.jpg){fig-alt="A headshot of Ted Laderas, who has long hair a long beard, but not in this photo."}
+:::
+:::
+
+::: notes
+
+:::
 
 ## Panelist Joy Payton
 
