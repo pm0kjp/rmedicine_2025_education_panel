@@ -31,6 +31,10 @@ $link-color: $primary;
   text-decoration: underline;
 }
 
+.reveal a:hover {
+  text-decoration: none;
+}
+
 .red {
   color: #da2c43
 }
