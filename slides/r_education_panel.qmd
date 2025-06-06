@@ -259,11 +259,10 @@ Here's a question I think a lot of people will find useful when it comes to appl
 * [`learnr` package](https://rstudio.github.io/learnr/){target='_blank'}
 * [`gradethis` package](https://rstudio.github.io/gradethis/){target='_blank'}
 * [Julia Silge's blog](https://juliasilge.com/blog/){target='_blank'}
-* [Urban Institue Do No Harm Project](https://www.urban.org/projects/do-no-harm-project){target='_blank'}
+* [Urban Institute Do No Harm Project](https://www.urban.org/projects/do-no-harm-project){target='_blank'}
 * [R-Ladies YouTube channel](https://www.youtube.com/@RLadiesGlobal/videos){target='_blank'}
 * [ROpenSci trainings](https://ropensci.org/training/){target='_blank'}
 * [Big Book of R](https://www.bigbookofr.com/){target='_blank'}
 * [DENT (Data Education Navigator Tool)](https://learn.arcus.chop.edu/){target='_blank'}
 * [LiaScript](https://liascript.github.io/){target='_blank'}
 * [Teaching Tech Together](https://teachtogether.tech/){target='_blank'}
-
