@@ -81,6 +81,6 @@
     "href": "slides/r_education_panel.html#some-of-our-favorite-resources",
     "title": "Supporting R Learners on the Job During Interesting Times",
     "section": "Some of our Favorite Resources",
-    "text": "Some of our Favorite Resources\n\nhttps://posit.cloud\nhttps://rstudio.github.io/learnr/\nhttps://rstudio.github.io/gradethis/\nhttps://juliasilge.com/blog/\nhttps://www.youtube.com/@RLadiesGlobal/videos\nhttps://www.bigbookofr.com/\nhttps://ropensci.org/training/"
+    "text": "Some of our Favorite Resources\n\nPosit Cloud\nlearnr package\ngradethis package\nJulia Silge’s blog\nUrban Institue Do No Harm Project\nR-Ladies YouTube channel\nROpenSci trainings\nBig Book of R"
   }
 ]

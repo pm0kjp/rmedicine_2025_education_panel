@@ -253,11 +253,12 @@ Here's a question I think a lot of people will find useful when it comes to appl
 
 ## Some of our Favorite Resources
 
-* https://posit.cloud
-* https://rstudio.github.io/learnr/
-* https://rstudio.github.io/gradethis/
-* https://juliasilge.com/blog/
-* https://www.youtube.com/@RLadiesGlobal/videos
-* https://www.bigbookofr.com/
-* https://ropensci.org/training/
+* [Posit Cloud](https://posit.cloud)
+* [`learnr` package](https://rstudio.github.io/learnr/)
+* [`gradethis` package](https://rstudio.github.io/gradethis/)
+* [Julia Silge's blog](https://juliasilge.com/blog/)
+* [Urban Institue Do No Harm Project](https://www.urban.org/projects/do-no-harm-project)
+* [R-Ladies YouTube channel](https://www.youtube.com/@RLadiesGlobal/videos)
+* [ROpenSci trainings](https://ropensci.org/training/)
+* [Big Book of R](https://www.bigbookofr.com/)
 
