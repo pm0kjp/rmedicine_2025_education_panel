@@ -25,14 +25,14 @@
     "href": "slides/r_education_panel.html#panelist-silvia-canelón",
     "title": "Supporting R Learners on the Job During Interesting Times",
     "section": "Panelist Silvia Canelón",
-    "text": "Panelist Silvia Canelón"
+    "text": "Panelist Silvia Canelón\n\n\nSilvia Canelón, PhD\n\nData scientist at the Penn Medicine Center for Health Justice & independent data journalist\nFormal training in biomedical engineering, using biomedical and spatial data science in clinical research\nCurrently working on an accountability journalism project (stay tuned!)\nPassionate about data literacy, communication, and accessibility\nLately, I provide informal education and mentorship to other researchers on equity considerations in data visualization 📊"
   },
   {
     "objectID": "slides/r_education_panel.html#panelist-meghan-harris",
     "href": "slides/r_education_panel.html#panelist-meghan-harris",
     "title": "Supporting R Learners on the Job During Interesting Times",
     "section": "Panelist Meghan Harris",
-    "text": "Panelist Meghan Harris\n\n\nMeghan Santiago Harris, MPH\nData Scientist at the Prostate Cancer Clinical Trials Consortium\n\nAuthor of The Tidy Trekker Website and Blog\nSelf-taught data scientist and R package developer with a formal educational background in Public Health and Epidemiology.\nCurrently a Public Health/Data Science mentor at The University At Buffalo School of Public Health and Health Professions for undergraduate students.\nFavorite method of “instruction” is written articles/walkthroughs and talks of all kinds.\n\n\n\n\n\n\nI always emphasize self-taught - not to diminish, but to provide context and perspective"
+    "text": "Panelist Meghan Harris\n\n\nMeghan Santiago Harris, MPH\nData Scientist at the Prostate Cancer Clinical Trials Consortium\n\nAuthor of The Tidy Trekker Website and Blog\nSelf-taught data scientist and R package developer with a formal educational background in Public Health and Epidemiology.\nCurrently a Public Health/Data Science mentor at The University At Buffalo School of Public Health and Health Professions for undergraduate students.\nFavorite method of “instruction” is written articles/walkthroughs and talks of all kinds.\n\n\n\n\n\n\n\nI always emphasize self-taught - not to diminish, but to provide context and perspective"
   },
   {
     "objectID": "slides/r_education_panel.html#panelist-ted-laderas",
@@ -46,7 +46,7 @@
     "href": "slides/r_education_panel.html#panelist-joy-payton",
     "title": "Supporting R Learners on the Job During Interesting Times",
     "section": "Panelist Joy Payton",
-    "text": "Panelist Joy Payton\n\n\nJoy Payton, MS\n(For 2 more weeks) Manager of Data Education, Arcus Initiative, Children’s Hospital of Philadelphia\n\nTeach workshops / short courses in data science (R, Python, SQL, ML, AI, NLP, etc.) for biomedical researchers and MD Fellows at CHOP and beyond\nAssists in Global Health Informatics efforts (Botswana, Dominican Republic, Panamá)\nOccasional adjunct professor / teach for O’Reilly\n\n\n\n\n\n\nOK, and this is my slide, I’m Joy, and I’m in transition mode, which I’ll talk about later on in the panel, but while at the Children’s Hospital of Philadelphia, which we call CHOP, some of what I’ve done has been to teach lots of different kind of data science topics within CHOP and beyond CHOP, as part of an NIH-funded data science training program where we reached learners in 16 countries. I also work in global health informatics and I occasionally pick up a side gig doing adjunct work or lecturing for O’Reilly."
+    "text": "Panelist Joy Payton\n\n\nJoy Payton, MSs\n(For 2 more weeks) Manager of Data Education, Arcus Initiative, Children’s Hospital of Philadelphia\n\nTeach workshops / short courses in data science (R, Python, SQL, ML, AI, NLP, etc.) for biomedical researchers and MD Fellows at CHOP and beyond\nAssists in Global Health Informatics efforts (Botswana, Dominican Republic, Panamá)\nOccasional adjunct professor / teach for O’Reilly\n\n\n\n\n\n\n\nOK, and this is my slide, I’m Joy, and I’m in transition mode, which I’ll talk about later on in the panel, but while at the Children’s Hospital of Philadelphia, which we call CHOP, some of what I’ve done has been to teach lots of different kind of data science topics within CHOP and beyond CHOP, as part of an NIH-funded data science training program where we reached learners in 16 countries. I also work in global health informatics and I occasionally pick up a side gig doing adjunct work or lecturing for O’Reilly."
   },
   {
     "objectID": "slides/r_education_panel.html#question-1",
@@ -81,6 +81,6 @@
     "href": "slides/r_education_panel.html#some-of-our-favorite-resources",
     "title": "Supporting R Learners on the Job During Interesting Times",
     "section": "Some of our Favorite Resources",
-    "text": "Some of our Favorite Resources\n\nhttps://posit.cloud\nhttps://rstudio.github.io/learnr/\nhttps://rstudio.github.io/gradethis/\nhttps://juliasilge.com/blog/.\n\n\n\n\nSlides are here"
+    "text": "Some of our Favorite Resources\n\nhttps://posit.cloud\nhttps://rstudio.github.io/learnr/\nhttps://rstudio.github.io/gradethis/\nhttps://juliasilge.com/blog/\nhttps://www.youtube.com/@RLadiesGlobal/videos\nhttps://www.bigbookofr.com/\nhttps://ropensci.org/training/"
   }
 ]
