@@ -104,7 +104,7 @@ Associate Professor of Biostatistics and Bioinformatics
 
 ::: {.column .small-text width="40%"}
 
-![](img/balise.jpg){fig-alt="A headshot of a smiling person with light skin, short grey spiky hair who is wearing a dark colored suit and tie."}
+![](img/balise.jpg){fig-alt="A headshot of a smiling Ray Balise with light skin and short grey spiky hair who is wearing a dark colored suit and tie."}
 :::
 :::
 
@@ -114,13 +114,13 @@ Associate Professor of Biostatistics and Bioinformatics
 
 **Silvia Canelón, PhD**
 
-* Data scientist at the [Penn Medicine Center for Health Justice](https://chti.upenn.edu/center-for-health-justice) & independent [data journalist](https://silviacanelon.com/project/2025-02-28-nicar-calendar/#other-journalism-projects)
+* Data scientist at the [Penn Medicine Center for Health Justice](https://chti.upenn.edu/center-for-health-justice){target='_blank'} & independent [data journalist](https://silviacanelon.com/project/2025-02-28-nicar-calendar/#other-journalism-projects){target='_blank'}
 
-* Formal training in biomedical engineering, using biomedical and spatial data science in [clinical research](https://silviacanelon.com/publication/)
+* Formal training in biomedical engineering, using biomedical and spatial data science in [clinical research](https://silviacanelon.com/publication/){target='_blank'}
 
-* Currently working on an accountability journalism project ([stay tuned](https://silviacanelon.com/contact#buttondown)!)
+* Currently working on an accountability journalism project ([stay tuned](https://silviacanelon.com/contact#buttondown){target='_blank'}!)
 
-* Passionate about data [literacy](https://silviacanelon.com/talk/2023-03-09-penn-community-scholars/), [communication](https://silviacanelon.com/talk/2024-07-10-data-equity-ldi/), and [accessibility](https://silviacanelon.com/talk/2021-05-04-data-viz-accessibility/)
+* Passionate about data [literacy](https://silviacanelon.com/talk/2023-03-09-penn-community-scholars/){target='_blank'}, [communication](https://silviacanelon.com/talk/2024-07-10-data-equity-ldi/){target='_blank'}, and [accessibility](https://silviacanelon.com/talk/2021-05-04-data-viz-accessibility/){target='_blank'}
 
 * Lately, I provide informal education and mentorship to other researchers on equity considerations in data visualization 📊
 
@@ -142,13 +142,13 @@ Associate Professor of Biostatistics and Bioinformatics
 
 Data Scientist at the Prostate Cancer Clinical Trials Consortium
 
-* Author of [The Tidy Trekker](https://thetidytrekker.com/) Website and [Blog](https://thetidytrekker.com/blog)
+* Author of [The Tidy Trekker](https://thetidytrekker.com/){target='_blank'} Website and [Blog](https://thetidytrekker.com/blog){target='_blank'}
 
 * Self-taught data scientist and R package developer with a formal educational background in Public Health and Epidemiology.
 
-* Currently a [Public Health/Data Science mentor](https://publichealth.buffalo.edu/home/about-us/public-health-diversity/envision-mentoring-program.html) at The University At Buffalo School of Public Health and Health Professions for undergraduate students.
+* Currently a [Public Health/Data Science mentor](https://publichealth.buffalo.edu/home/about-us/public-health-diversity/envision-mentoring-program.html){target='_blank'} at The University At Buffalo School of Public Health and Health Professions for undergraduate students.
 
-* Favorite method of "instruction" is written articles/walkthroughs and [talks](https://thetidytrekker.com/talks) of all kinds.
+* Favorite method of "instruction" is written articles/walkthroughs and [talks](https://thetidytrekker.com/talks){target='_blank'} of all kinds.
 
 :::
 
@@ -170,9 +170,9 @@ I always emphasize self-taught - not to diminish, but to provide context and per
 ::: {.column .small-text width="50%"}
 **Ted Laderas, PhD**
 
-* I've worked with many different kinds of adult learners: [clinicians](https://laderast.github.io/rmed_2020_talk/#1), bioinformaticians, biologists, finance, social scientists, engineers, and educators
-* Currently [Director of Training and Community](https://hutchdatascience.org) for Office of the Chief Data Officer, Fred Hutch Cancer Center
-* Recovering academic; focus is on workforce training and [psychological safety](https://laderast.github.io/talks/2021-03-22-psychological-safety/)
+* I've worked with many different kinds of adult learners: [clinicians](https://laderast.github.io/rmed_2020_talk/#1){target='_blank'}, bioinformaticians, biologists, finance, social scientists, engineers, and educators
+* Currently [Director of Training and Community](https://hutchdatascience.org){target='_blank'} for Office of the Chief Data Officer, Fred Hutch Cancer Center
+* Recovering academic; focus is on workforce training and [psychological safety](https://laderast.github.io/talks/2021-03-22-psychological-safety/){target='_blank'}
 
 :::
 
@@ -193,13 +193,14 @@ I always emphasize self-taught - not to diminish, but to provide context and per
 ::: {.columns .v-center-container}
 ::: {.column .small-text width="50%"}
 
-**Joy Payton, MS**s
+**Joy Payton, MS**
 
 (For 2 more weeks) Manager of Data Education, Arcus Initiative, Children's Hospital of Philadelphia 
 
-* Teach workshops / short courses in data science (R, Python, SQL, ML, AI, NLP, etc.) for biomedical researchers and MD Fellows at CHOP and beyond 
-* Assists in Global Health Informatics efforts (Botswana, Dominican Republic, Panamá)
-* Occasional adjunct professor / teach for O'Reilly 
+* Teach workshops / short courses in data science (R, Python, SQL, ML, AI, NLP, etc.) for biomedical researchers and MD Fellows at CHOP and beyond (see: [DENT](https://learn.arcus.chop.edu){target='_blank'})
+* Assists in Global Health Informatics efforts (Botswana, Dominican Republic, [Panamá](https://bit.ly/congreso_2024){target='_blank'})
+* Occasional adjunct professor / teach for O'Reilly
+* Side interests include criminal legal system statistics (in Pennsylvania we elect our judges, but voters don't have a lot of information about how judges do their jobs)
 
 :::
 
@@ -208,7 +209,7 @@ I always emphasize self-taught - not to diminish, but to provide context and per
 
 ::: {.column .small-text width="40%"}
 
-![](img/payton.jpg){fig-alt="A headshot of a smiling person with light skin and dark brown hair pulled back, who is wearing a green shirt and green dangling earrings."}
+![](img/payton.jpg){fig-alt="A headshot of a smiling Joy Payton with light skin and dark brown hair pulled back, who is wearing a green shirt and green dangling earrings."}
 :::
 :::
 
@@ -251,14 +252,18 @@ Here's a question I think a lot of people will find useful when it comes to appl
 ## Your Questions!
 
 
+
 ## Some of our Favorite Resources
 
-* [Posit Cloud](https://posit.cloud)
-* [`learnr` package](https://rstudio.github.io/learnr/)
-* [`gradethis` package](https://rstudio.github.io/gradethis/)
-* [Julia Silge's blog](https://juliasilge.com/blog/)
-* [Urban Institue Do No Harm Project](https://www.urban.org/projects/do-no-harm-project)
-* [R-Ladies YouTube channel](https://www.youtube.com/@RLadiesGlobal/videos)
-* [ROpenSci trainings](https://ropensci.org/training/)
-* [Big Book of R](https://www.bigbookofr.com/)
+* [Posit Cloud](https://posit.cloud){target='_blank'}
+* [`learnr` package](https://rstudio.github.io/learnr/){target='_blank'}
+* [`gradethis` package](https://rstudio.github.io/gradethis/){target='_blank'}
+* [Julia Silge's blog](https://juliasilge.com/blog/){target='_blank'}
+* [Urban Institue Do No Harm Project](https://www.urban.org/projects/do-no-harm-project){target='_blank'}
+* [R-Ladies YouTube channel](https://www.youtube.com/@RLadiesGlobal/videos){target='_blank'}
+* [ROpenSci trainings](https://ropensci.org/training/){target='_blank'}
+* [Big Book of R](https://www.bigbookofr.com/){target='_blank'}
+* [DENT (Data Education Navigator Tool)](https://learn.arcus.chop.edu/){target='_blank'}
+* [LiaScript](https://liascript.github.io/){target='_blank'}
+* [Teaching Tech Together](https://teachtogether.tech/){target='_blank'}
 

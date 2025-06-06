@@ -46,7 +46,7 @@
     "href": "slides/r_education_panel.html#panelist-joy-payton",
     "title": "Supporting R Learners on the Job During Interesting Times",
     "section": "Panelist Joy Payton",
-    "text": "Panelist Joy Payton\n\n\nJoy Payton, MSs\n(For 2 more weeks) Manager of Data Education, Arcus Initiative, Children’s Hospital of Philadelphia\n\nTeach workshops / short courses in data science (R, Python, SQL, ML, AI, NLP, etc.) for biomedical researchers and MD Fellows at CHOP and beyond\nAssists in Global Health Informatics efforts (Botswana, Dominican Republic, Panamá)\nOccasional adjunct professor / teach for O’Reilly\n\n\n\n\n\n\n\nOK, and this is my slide, I’m Joy, and I’m in transition mode, which I’ll talk about later on in the panel, but while at the Children’s Hospital of Philadelphia, which we call CHOP, some of what I’ve done has been to teach lots of different kind of data science topics within CHOP and beyond CHOP, as part of an NIH-funded data science training program where we reached learners in 16 countries. I also work in global health informatics and I occasionally pick up a side gig doing adjunct work or lecturing for O’Reilly."
+    "text": "Panelist Joy Payton\n\n\nJoy Payton, MS\n(For 2 more weeks) Manager of Data Education, Arcus Initiative, Children’s Hospital of Philadelphia\n\nTeach workshops / short courses in data science (R, Python, SQL, ML, AI, NLP, etc.) for biomedical researchers and MD Fellows at CHOP and beyond (see: DENT)\nAssists in Global Health Informatics efforts (Botswana, Dominican Republic, Panamá)\nOccasional adjunct professor / teach for O’Reilly\nSide interests include criminal legal system statistics (in Pennsylvania we elect our judges, but voters don’t have a lot of information about how judges do their jobs)\n\n\n\n\n\n\n\nOK, and this is my slide, I’m Joy, and I’m in transition mode, which I’ll talk about later on in the panel, but while at the Children’s Hospital of Philadelphia, which we call CHOP, some of what I’ve done has been to teach lots of different kind of data science topics within CHOP and beyond CHOP, as part of an NIH-funded data science training program where we reached learners in 16 countries. I also work in global health informatics and I occasionally pick up a side gig doing adjunct work or lecturing for O’Reilly."
   },
   {
     "objectID": "slides/r_education_panel.html#question-1",
@@ -81,6 +81,6 @@
     "href": "slides/r_education_panel.html#some-of-our-favorite-resources",
     "title": "Supporting R Learners on the Job During Interesting Times",
     "section": "Some of our Favorite Resources",
-    "text": "Some of our Favorite Resources\n\nPosit Cloud\nlearnr package\ngradethis package\nJulia Silge’s blog\nUrban Institue Do No Harm Project\nR-Ladies YouTube channel\nROpenSci trainings\nBig Book of R"
+    "text": "Some of our Favorite Resources\n\nPosit Cloud\nlearnr package\ngradethis package\nJulia Silge’s blog\nUrban Institue Do No Harm Project\nR-Ladies YouTube channel\nROpenSci trainings\nBig Book of R\nDENT (Data Education Navigator Tool)\nLiaScript\nTeaching Tech Together\n\n\n\n\n\nSlides are here"
   }
 ]
